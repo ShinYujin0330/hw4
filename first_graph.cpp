@@ -7,7 +7,7 @@ const float pi = 3.141592;
 
 int main() {
 	float t = 0.0, dt, T;
-	dt = 1. / 110. / 10.; //intÀÚ³¢¸®ÀÇ ³ª´°¼À ¸·±â
+	dt = 1. / 110. / 10.; 
 	T = 5. / 110.;
 
 	ofstream fg("first graph.txt");
